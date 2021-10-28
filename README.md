@@ -15,22 +15,24 @@ The purpose of this analysis is to convince investors to consider the bike-shari
 •	81% of the CitiBike users are subscribers, 19% are Customers
 •	Most of CitiBike users are male with a total count of 1,530,272. Women followed with a total count of 588,431 individuals
  
+ https://github.com/diana-arango/bikesharing/blob/main/Pictures/Customers%20-%20Gender%20Breakdown.png
 
 ### Checkout times:
 
 •	Data studied: Rides in August 2019
 •	CitiBike services were highly used at rush hours: 8:00 am, 5:00 pm and 6:00 pm
- 
-•	Upper Manhattan was the top location were rides started and ended daily 
+https://github.com/diana-arango/bikesharing/blob/main/Pictures/August%20Peak%20Hours.png
 
+•	Upper Manhattan was the top location were rides started and ended daily 
+https://github.com/diana-arango/bikesharing/blob/main/Pictures/Top%20Starting%20and%20Ending%20Locations.png
  
 •	A study performed during a 24-hour day determined that most of users took advantage of the ride service for 5 minutes. Instead, there were fewer customers who took long rides of approximately 45 to 50 minutes. Men were the mainly riders 
 
- 
+ https://github.com/diana-arango/bikesharing/blob/main/Pictures/Checkout%20Times%20by%20Users%20%26%20Gender.png
 
 ### Weekday trips:
 •	Bikes are considerably used during weekdays. Specially Thursday at 8: 00 am and rush hour between 5:00 pm and 6: 00 pm. Subscribers, mainly men are the top users 
-
+https://github.com/diana-arango/bikesharing/blob/main/Pictures/Trips%20by%20Weekday.png
  
 ### Summary: 
 
